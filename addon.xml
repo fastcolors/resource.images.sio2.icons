@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="resource.images.sio2.icons" name="Sio2 Icons" version="0.0.1" provider-name="Fastcolors">
+<addon id="resource.images.sio2.icons" name="Sio2 Icons" version="0.0.2" provider-name="Fastcolors">
 	<extension point="kodi.resource.images" compile="true" type="studios" />
 	<requires>
 		<import addon="kodi.resource" version="1.0.0"/>
